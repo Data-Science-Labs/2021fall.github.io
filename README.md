@@ -1,4 +1,4 @@
-# Data Science Lab (2021 Fall)
+# Data Science Lab
 
 ## About DSL
 
