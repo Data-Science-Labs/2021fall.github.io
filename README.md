@@ -1,4 +1,4 @@
-# About DSL
+## About DSL
 
 In this class, we bring together data science applications
 provided by domain experts and
@@ -14,7 +14,7 @@ of dealing with data science and machine learning applications
 process starting from data cleaning, modeling, execution,
 debugging, error analysis, and quality/performance refinement.
 
-# Lecturers 
+## Lecturers 
 
 - Valentina Boeva
 - Ryan Cotterell
@@ -24,19 +24,19 @@ debugging, error analysis, and quality/performance refinement.
 
 General inquiry: Ce Zhang (ce.zhang@inf.ethz.ch)
 
-# Logistics
+## Logistics
 
 - Week 1 (Sep 23rd, 2021) 2pm-4pm: Presentation from experts about projects and data
 - Biweekly meeting with computer science professors
 - Biweekly meeting with experts
 
-# Projects
+## Projects
 
 This semester we have an amazing collection of experts from six different departments at 
 ETH (D-CHAB, D-GESS, D-ITET, D-BIOL, D-USYS, D-MTECH), together with experts from University of Zurich, EMPA,
 Restor, ETH IT and ETH Library.
 
-## 1. PROJECT TITLE (Burden Andrea; D-CHAB)
+### 1. PROJECT TITLE (Burden Andrea; D-CHAB)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -50,7 +50,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 2. PROJECT TITLE (Elliott Ash; D-GESS)
+### 2. PROJECT TITLE (Elliott Ash; D-GESS)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -64,7 +64,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 3. PROJECT TITLE (Helmut Bölcskei; D-ITET)
+### 3. PROJECT TITLE (Helmut Bölcskei; D-ITET)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -78,7 +78,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 4. PROJECT TITLE (Daniel Boschung; D-BIOL)
+### 4. PROJECT TITLE (Daniel Boschung; D-BIOL)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -92,7 +92,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 5. PROJECT TITLE (Paul Cross; ETH IT)
+### 5. PROJECT TITLE (Paul Cross; ETH IT)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -106,7 +106,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 6. PROJECT TITLE (Klaus Eyer; D-CHAB)
+### 6. PROJECT TITLE (Klaus Eyer; D-CHAB)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -120,7 +120,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 7. PROJECT TITLE (Nicolas Langer; UZH)
+### 7. PROJECT TITLE (Nicolas Langer; UZH)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -134,7 +134,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 8. PROJECT TITLE (Mirko Lukovic; EMPA)
+### 8. PROJECT TITLE (Mirko Lukovic; EMPA)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -148,7 +148,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 9. PROJECT TITLE (Sebastian Schemm; D-USYS)
+### 9. PROJECT TITLE (Sebastian Schemm; D-USYS)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -162,7 +162,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 10. PROJECT TITLE (Daniella Schweizer; Restor)
+### 10. PROJECT TITLE (Daniella Schweizer; Restor)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -176,7 +176,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 11. PROJECT TITLE (Christiane Sibille; ETH Library)
+### 11. PROJECT TITLE (Christiane Sibille; ETH Library)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -190,7 +190,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 12. PROJECT TITLE (Benjamin Stocker; D-USYS)
+### 12. PROJECT TITLE (Benjamin Stocker; D-USYS)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -205,7 +205,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 <br clear="left"/>
 
 
-## 13. PROJECT TITLE (Yash Shrestha; D-MTECH)
+### 13. PROJECT TITLE (Yash Shrestha; D-MTECH)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -219,7 +219,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-## 14. PROJECT TITLE (Achim Walter; D-USYS)
+### 14. PROJECT TITLE (Achim Walter; D-USYS)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
