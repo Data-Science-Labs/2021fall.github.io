@@ -1,8 +1,8 @@
 # About DSL
 
 In this class, we bring together data science applications
-provided by ETH researchers outside computer science and
-teams of computer science master's students. Three to Four
+provided by domain experts and
+teams of data science master's students. Three to Four
 students will form a team working on data science/machine
 learning-related research topics provided by scientists in
 a diverse range of domains such as astronomy, biology,
