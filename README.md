@@ -35,8 +35,8 @@ General inquiry: Ce Zhang (ce.zhang@inf.ethz.ch)
 ## Projects
 
 This semester we have an amazing collection of experts from six different departments at 
-ETH (D-CHAB, D-GESS, D-ITET, D-BIOL, D-USYS, D-MTECH), together with experts from University of Zurich, EMPA,
-Restor, ETH IT and ETH Library.
+ETH (D-CHAB, D-GESS, D-ITET, D-BIOL, D-USYS, D-MTECH), together with experts from University of Zurich, 
+Stanford University, EMPA, Restor, ETH IT and ETH Library.
 
 ### 1. PROJECT TITLE (Burden Andrea; D-CHAB)
 
@@ -207,7 +207,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 <br clear="left"/>
 
 
-### 13. PROJECT TITLE (Yash Shrestha; D-MTECH)
+### 13. PROJECT TITLE (Yash Shrestha; D-MTECH; Bibek Paudel; Stanford University)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
