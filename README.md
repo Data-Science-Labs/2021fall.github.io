@@ -221,17 +221,13 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-### 14. PROJECT TITLE (Achim Walter; D-USYS)
+### 14. Field-based wheat growth monitoring with RGB time series (Achim Walter, Lukas Roth; D-USYS)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="https://polybox.ethz.ch/index.php/s/9twWnY9RV1FBtga/download" align="left" width="200px"/>
+In the last seven years, the <a href="https://kp.ethz.ch/infrastructure/FIP.html">field phenotyping platform (FIP)</a> at ETH constantly collected image time series of more than 350 wheat genotypes. This dataset promises to provide new insights of growth dynamics in relation to the environment, an essential prerequisite for adapting field crops to a changing climate.
+
+Monitoring plant and shoot growth dynamics in early spring is a challenging task: Baseline methods exist to estimate image homographies on time series, to semantically segment images in pixels showing plant and soil, and to extract plant and shoot count estimations. Nevertheless, some steps in this workflow are based on hand-crafted algorithms, and other require intense manual input.
+
+In this project, you have the task to replace certain steps in this workflow with state-of-the-art deep learning algorithm. For the image homography step, large training sets exist. A labeled training set for plant and shoot counts exists as well, but its quality is due to its nature limited (it is very hard to count tiny plants outside in cold spring). Enhancing the training set with synthetic data generated with a functional-structural plant growth model (e.g., <a href="https://www.quantitative-plant.org/model/AdelWheat">ADEL-Wheat</a>) may represent one option to enhance the training set. Using the time series character of the collected images represents another alternative.
 <br clear="left"/>
 
