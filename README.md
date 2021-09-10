@@ -146,16 +146,17 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 
 ### 9. PROJECT TITLE (Sebastian Schemm; D-USYS)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="cone_5day_with_wind.png" align="left" width="200px"/>
+Accurately predicted cyclones tracks are important
+for containing weather related socio-economic risks.
+Even on daily and hourly time scales, cyclone tracks are associated with large uncertainties, as
+indicated, for example, by the probability cone in the attached figure. These great uncertainties
+are a challenge for emergency planning and the implementation of disaster risk reduction.The aim of this project is to develop an ML method that
+is able to predict the future cyclones path given
+information about the past track and current
+environmental conditions (e.g. wind in the
+Environment on different levels). This project builds on the work that started during last year’s data science lab.
+
 <br clear="left"/>
 
 ### 10. PROJECT TITLE (Daniella Schweizer; Restor)
