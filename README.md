@@ -82,16 +82,12 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 
 ### 4. PROJECT TITLE (Daniel Boschung; D-BIOL)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="https://static.wixstatic.com/media/546756_9a8d57d6a9fe44009b02d160b4e44344f000.jpg/v1/fill/w_320,h_330,al_c,q_80,usm_0.33_1.00_0.00/546756_9a8d57d6a9fe44009b02d160b4e44344f000.webp" align="left" width="200px"/>
+BeePollenTracker is a project from BeeLivingSensor. It is using the 30 000 to 50 000 honeybees from a colony as living sensors  for the colony's health and environmental change. With AI we count the incoming bees and detect the amount and color of pollen, which gives us some information about the biodiversity in the flying radius of the bees.  Furthermore, the project will connect different stakeholders including beekeepers, farmers, scientists, schools, citizen scientists, etc to bring together their expertise, as well as data sources from the hives like weights, temperatures, humidity (inside and outside the hive). The aggregated data will be visualized and openly available so to get informed about the bees health, surrounding biodiversity and environmental change.
+
+Project Aims: Count and detect the color of pollen honeybees are bringing to the hive in a noninvasive way.
+Building an IT platform which allows sharing and aggregating honeybee related data. 
+Integrating Citizen Science to the project and connecting all the different stakeholders. 
 <br clear="left"/>
 
 ### 5. PROJECT TITLE (Paul Cross; ETH IT)
