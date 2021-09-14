@@ -1,5 +1,8 @@
 # Data Science Lab
 
+[I'm an inline-style link](https://www.google.com)
+
+
 ## About DSL
 
 In this class, we bring together data science applications
