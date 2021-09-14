@@ -1,7 +1,5 @@
 # Data Science Lab
 
-[I'm an inline-style link](https://www.google.com)
-
 
 ## About DSL
 
@@ -129,7 +127,7 @@ However, up to now the cost of eye-tracking hardware and the complex setup requi
 In this proposal, we address this shortcoming and hypothesize that gaze position can be reliably extracted from combined EEG and EOG activity using state-of-the-art machine learning, in particular deep learning. We propose two subprojects to pursue this endeavor. In subproject A, we will use an existing and in-house collected dataset of 390 healthy participants engaging in cognitive tasks of varying complexity. This unique dataset consists of EEG/EOG recordings with concurrent infrared video-based eye- tracking for over 2.5 million gaze fixations and helps us to overcome the major challenge for any deep-learning project: collecting enough labelled training data. Using this dataset, we will train a deep convolutional neural network to learn the unique patterns of EEG/EOG activity that are associated with different gaze positions on the screen. The aim of subproject B is to evaluate the trained convolutional neural network derived from subproject A with completely independent data from new subjects. Our proposed project will result in the development of a freely and publicly available open-source toolbox that will provide EEG research and clinical institutions worldwide with a tool to objectively, reliably and time-efficiently assess gaze position without any knowledge required of data analysis or any additional costs to their existing infrastructure. 
 <br clear="left"/>
 
-### 8. PROJECT TITLE (Mirko Lukovic; EMPA)
+### 8. (Mirko Lukovic; EMPA)
 
 <img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
@@ -143,7 +141,7 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-### 9. PROJECT TITLE (Sebastian Schemm; D-USYS)
+### 9. (Sebastian Schemm; D-USYS)
 
 <img src="cone_5day_with_wind.png" align="left" width="200px"/>
 Accurately predicted cyclones tracks are important
@@ -158,24 +156,16 @@ Environment on different levels). This project builds on the work that started d
 
 <br clear="left"/>
 
-### 10. PROJECT TITLE (Daniella Schweizer; Restor)
+### 10. (Daniella Schweizer; Restor)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="https://www.crowtherlab.com/wp-content/uploads/2021/08/RESTOR-PrimaryMark-RGB-FullColor_flat-300x179.jpg" align="left" width="200px"/>
+Restor is a newly created platform that aims to bring transparency, connectivity and ecological insights to restoration efforts around the world. As part of this initiative, we have embarked in a project, in collaboration with Dr. Ce Zhang, where we want to explore the application of machine learning methods for the automatic detection of tree crowns from high resolution aerial images. The automatic detection of tree crowns can enable forest restoration practitioners and funders to evaluate several indicators of restoration health, forest tree structural diversity, canopy density and canopy closeness, which are important for the evaluation of restoration progress and will improve the transparency as more and more stakeholders get engaged in trying to scale up the efforts for restoring degraded forest areas and other ecosystems. We hope you get excited about this project and want to help us in deriving the mentioned algorithms! 
 <br clear="left"/>
 
 ### 11. Historical Image Recognition(Christiane Sibille; ETH Library)
 
 <img src="library.jpg" align="left" width="200px"/>
-ETH Library's Image Archive (https://ba.e-pics.ethz.ch) provides access to around 550,000 digitised photographs. These images document in particular the history of research at ETH, but also includes a wide range of other topics (e.g. [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/46/viewmode=infoview), [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/45073/viewmode=infoview) or [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/40391/viewmode=infoview)). All images are manually indexed and most of them are also automatically tagged. However, the results for tagged historical images do not seem to be very accurate yet. 
+ETH Library's Image Archive (https://ba.e-pics.ethz.ch) provides access to around 550,000 digitised photographs. These images document in particular the history of research at ETH, but also includes a wide range of other topics (e.g. [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/46/viewmode=infoview), [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/45073/viewmode=infoview) or [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/40391/viewmode=infoview) ). All images are manually indexed and most of them are also automatically tagged. However, the results for tagged historical images do not seem to be very accurate yet. 
 With this project you can contribute to the improvement of the recognition of historical images. In a first step, we would be very interested in a deeper understanding of the existing tagging. Are there systematic errors and how can we improve the recognition? 
 The aim of the project is the creation of an application with which we will be able to train a model for tagging historical images and apply it to our and similar collections.
 <br clear="left"/>
