@@ -169,18 +169,12 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-### 11. PROJECT TITLE (Christiane Sibille; ETH Library)
+### 11. Historical Image Recognition(Christiane Sibille; ETH Library)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="library.jpg" align="left" width="200px"/>
+ETH Library's Image Archive (https://ba.e-pics.ethz.ch) provides access to around 550,000 digitised photographs. These images document in particular the history of research at ETH, but also includes a wide range of other topics (e.g. [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/46/viewmode=infoview), [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/45073/viewmode=infoview) or [here](https://ba.e-pics.ethz.ch/catalog/ETHBIB.Bildarchiv/r/40391/viewmode=infoview)). All images are manually indexed and most of them are also automatically tagged. However, the results for tagged historical images do not seem to be very accurate yet. 
+With this project you can contribute to the improvement of the recognition of historical images. In a first step, we would be very interested in a deeper understanding of the existing tagging. Are there systematic errors and how can we improve the recognition? 
+The aim of the project is the creation of an application with which we will be able to train a model for tagging historical images and apply it to our and similar collections.
 <br clear="left"/>
 
 ### 12. PROJECT TITLE (Benjamin Stocker; D-USYS)
