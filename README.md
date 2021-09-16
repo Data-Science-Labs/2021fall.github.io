@@ -173,7 +173,7 @@ Environment on different levels). This project builds on the work that started d
 
 ### 10. (Daniella Schweizer; Restor)
 
-<img src="https://www.crowtherlab.com/wp-content/uploads/2021/08/RESTOR-PrimaryMark-RGB-FullColor_flat-300x179.jpg" align="left" width="200px"/>
+<img src="https://restor.eco/social-media.png" align="left" width="200px"/>
 Restor is a newly created platform that aims to bring transparency, connectivity and ecological insights to restoration efforts around the world. As part of this initiative, we have embarked in a project, in collaboration with Dr. Ce Zhang, where we want to explore the application of machine learning methods for the automatic detection of tree crowns from high resolution aerial images. The automatic detection of tree crowns can enable forest restoration practitioners and funders to evaluate several indicators of restoration health, forest tree structural diversity, canopy density and canopy closeness, which are important for the evaluation of restoration progress and will improve the transparency as more and more stakeholders get engaged in trying to scale up the efforts for restoring degraded forest areas and other ecosystems. We hope you get excited about this project and want to help us in deriving the mentioned algorithms! 
 <br clear="left"/>
 
