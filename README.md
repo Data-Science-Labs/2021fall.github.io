@@ -127,18 +127,10 @@ However, up to now the cost of eye-tracking hardware and the complex setup requi
 In this proposal, we address this shortcoming and hypothesize that gaze position can be reliably extracted from combined EEG and EOG activity using state-of-the-art machine learning, in particular deep learning. We propose two subprojects to pursue this endeavor. In subproject A, we will use an existing and in-house collected dataset of 390 healthy participants engaging in cognitive tasks of varying complexity. This unique dataset consists of EEG/EOG recordings with concurrent infrared video-based eye- tracking for over 2.5 million gaze fixations and helps us to overcome the major challenge for any deep-learning project: collecting enough labelled training data. Using this dataset, we will train a deep convolutional neural network to learn the unique patterns of EEG/EOG activity that are associated with different gaze positions on the screen. The aim of subproject B is to evaluate the trained convolutional neural network derived from subproject A with completely independent data from new subjects. Our proposed project will result in the development of a freely and publicly available open-source toolbox that will provide EEG research and clinical institutions worldwide with a tool to objectively, reliably and time-efficiently assess gaze position without any knowledge required of data analysis or any additional costs to their existing infrastructure. 
 <br clear="left"/>
 
-### 8. (Mirko Lukovic; EMPA)
+### 8. Data-centric AI for computer vison (Mirko Lukovic; EMPA)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="https://user-images.githubusercontent.com/90776347/133447320-ffe011cb-9dfc-4241-a209-9989e1c4e271.png" align="left" width="120px"/>
+One of the missions of the **WoodTec** group is to improve automation in the wood industry through AI. In particular, we have one running project where we want to determine the tree species and mechanical properties of wood samples from images. We have two labelled datasets: HD photographs of standardized wood lamellae and microscale tomograms of small wood samples (see figure on the left). The problem is that they are rather small and imbal-anced. For this reason, we want to focus specifically on **data-centric** AI by including data modification and augmentation as part of the learning process. The questions is the following: having chosen a reasonable CNN architecture, what can we do with the available data in order to improve the learning process?
 <br clear="left"/>
 
 ### 9. (Sebastian Schemm; D-USYS)
