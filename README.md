@@ -105,18 +105,41 @@ DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION
 DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
 <br clear="left"/>
 
-### 6. PROJECT TITLE (Klaus Eyer; D-CHAB)
+### 6. Next-generation deep-phenotyping of individual, functionally active cells (Klaus Eyer; D-CHAB)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="cellsindroplet.jpg" align="left" width="200px"/>
+Vaccines have had and continue to have a tremendously
+positive effect on global health. Preventive in their action,
+they can protect recipients from specific diseases due to
+the induced immunological response. Vaccine-mediated
+protection can often be linked directly to generating
+specific antibody repertoire such as neutralizing
+antibody-producing cells. Long-term protection is
+achieved due to the continued presence of these cells
+within the organism and the development of
+immunological memory. Today, we usually assess
+protection in serum but the presence of &gt;10 3 different
+antibodies makes quantification and the extracting of additional biological understanding
+thereof tricky. In this regard, my research group develops novel technologies and analytical
+strategies to quantify vaccine-mediated protection on the single-antibody level. In this effort,
+we aim to understand protection itself better and predict the duration of protection in
+individuals.
+
+This project will work on data generated using a murine model system and a novel
+immunization approach for severe acute respiratory syndrome coronavirus type 2 (SARS-
+CoV-2). In these projects, we compartmentalize individual cells in monodisperse 50 pL
+aqueous droplets by using droplet microfluidics, and measure the frequency of producing
+cells, production rates, the specificity of the produced antibody and whether the antibody is
+able to induce biologically-relevant functions such as neutralization. We have developed an
+image-based read-out based on microscopic brightfield and fluorescent images. In this
+collaboration, we would be interested in reading out additional parameters from our images,
+mainly on the bright field images, such as cell size, ‘stickiness of the cells, granularity, or
+other characteristics, in addition to our classical analysis. These additional parameters are of
+great interest to us since they will better define the immensely heterogonous population of
+antibody secreting cells and B cells in general. Within the immense cellular heterogeneity
+found in B cells (antibody-producing cells are a subset of B cells) also lies the challenge of
+this project since cells can display many different features, features that can be used to
+identify the cells.
 <br clear="left"/>
 
 ### 7. PROJECT TITLE (Nicolas Langer; UZH)
