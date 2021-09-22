@@ -185,18 +185,10 @@ With this project you can contribute to the improvement of the recognition of hi
 The aim of the project is the creation of an application with which we will be able to train a model for tagging historical images and apply it to our and similar collections.
 <br clear="left"/>
 
-### 12. PROJECT TITLE (Benjamin Stocker; D-USYS)
+### 12. Drought impact forecasting (Benjamin Stocker; D-USYS)
 
-<img src="https://www.schulz-grafik.de/wp-content/uploads/2018/03/placeholder-300x300.png" align="left" width="200px"/>
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
-DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT DESCRIPTION OF PROJECT
+<img src="https://www.earthnet.tech/assets/images/task-example-uk2019.png" align="left" width="200px"/>
+Recent hot and dry summers have caused substantial damage on forests throughout Europe and have stakeholders (forest managers, insurance companies, etc.) by surprise. To improve preparedeness for climate extremes and adapt management, we need to better understand sensitivities and thresholds of adverse impacts on forests in response to climate extreme events. Satellite imagery measuring green leaf coverage of the land surface, paired with weather data and detailed information about topography, land cover, and soils is now available and offers an opportunity to develop predictive models to anticipate forest damage (estimated by an anomalous loss of green leaf coverage - "browning events") in response to the environment. The challenge is to effectively learn from obsered temporal and spatial dependencies in these data. The task of forecasting browning events has recently be formalised as the [*EarthNet2021*](https://www.earthnet.tech/) challenge ([Requena-Mesa et al., 2020](https://arxiv.org/abs/2012.06246)) in the fashion of a *Kaggle competition*, with analysis-ready data and a specified evaluation protocol. Your task is to build a model leveraging available methods (e.g., *video forecasting*) and outcompete the competitors. 
 <br clear="left"/>
 
 
